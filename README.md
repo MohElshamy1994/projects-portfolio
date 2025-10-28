@@ -6,9 +6,14 @@ Welcome to my comprehensive projects portfolio! This repository contains detaile
 
 ## 📥 Download Projects Presentation
 
-**[📥 Download: Elshamy-Projects.pptx](./Elshamy-Projects.pptx)** ⬅️ **Click to download full presentation**
+**Choose your format:**
 
-This PowerPoint includes:
+| Format | Download |
+|--------|----------|
+| 📊 **PowerPoint** | [📥 Elshamy-Projects.pptx](./Elshamy-Projects.pptx) |
+| 📄 **PDF** | [📥 Elshamy-Projects.pdf](./Elshamy-Projects.pdf) |
+
+**Presentation includes:**
 - Visual walkthroughs of all projects
 - Project timelines and achievements
 - Technical diagrams and schematics
